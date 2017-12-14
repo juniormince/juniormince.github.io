@@ -38,5 +38,6 @@ h4 {
 
 li {
 	font-size: 16px;
-	text-align: left; 
+	width: 500px
+	text-align: justify; 
 }
