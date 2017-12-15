@@ -16,6 +16,11 @@
 	font-size: 42px;
 }
 
+#bree {
+	border-radius: 15px;
+	background-color: #CBB0B0;
+}
+
 .date {
 	float: right;	
 }
