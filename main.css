@@ -36,11 +36,7 @@ h4 {
 	margin: 2px;
 }
 
-p.ex {
-	width: 300px;
-	text-align: justify;
-}
-
 li {
 	font-size: 16px;
+	font-weight: 500px;
 }
