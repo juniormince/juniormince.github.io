@@ -5,7 +5,7 @@
 	
 	padding: 75px 200px 100px;
 
-	border-radius: 15px;
+	border-radius: 25px;
 	background-color: #BEADAD;
 
 	text-align: left;
@@ -17,7 +17,7 @@
 }
 
 #bree {
-	border-radius: 15px;
+	border-radius: 25px;
 	background-color: #DCD4D4;
 }
 
@@ -51,5 +51,5 @@ li {
 }
 
 p.weight {
-    font-weight: 700;
+    font-weight: 900;
 }
